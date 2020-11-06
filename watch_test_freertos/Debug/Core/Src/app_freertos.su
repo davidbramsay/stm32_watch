@@ -1,0 +1,2 @@
+app_freertos.c:62:13:configureTimerForRunTimeStats	4	static
+app_freertos.c:67:22:getRunTimeCounterValue	4	static
